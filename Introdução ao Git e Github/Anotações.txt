@@ -1,3 +1,17 @@
 Link para download do Git: https://git-scm.com/
 
-- O it Bash é um terminal estendido para otimizar o uso do Git.
+- O Git Bash é um terminal estendido para otimizar o uso do Git.
+
+## Comandos básicos para o terminal Git
+
+ -  - cd = navegar dentro das pastas
+ - ls = listar os arquivos
+ - mkdir = criar uma pasta 
+ - rmdir = remover pasta
+ - cd .. = retroceder um nivel
+ - git init = iniciar um repositorio
+ - git add = inicial o versionamento
+ - it add * ou add . = adiciona todas as modificação do repositorio local para o staging area
+ - git commit -m "mensagem" = Criar um commit com mensagem
+ - git push = empurrar repositorio local para reporitorio remoto
+ - git status = monitora os arquivos
