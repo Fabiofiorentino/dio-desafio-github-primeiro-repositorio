@@ -4,7 +4,7 @@ Link para download do Git: https://git-scm.com/
 
 ## Comandos básicos para o terminal Git
 
- -  - cd = navegar dentro das pastas
+ - cd = navegar dentro das pastas
  - ls = listar os arquivos
  - mkdir = criar uma pasta 
  - rmdir = remover pasta
